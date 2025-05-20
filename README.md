@@ -43,6 +43,7 @@ Each article is backed by Python code to illustrate:
 ---
 
 📊 Educational Philosophy
+
 Each article aims to:
 - Introduce a real-world concept with clear motivation
 - Explain the quantitative mechanics behind it
