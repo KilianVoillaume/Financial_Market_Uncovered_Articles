@@ -33,6 +33,8 @@ Each entry in the series combines article-style explanations and working Python 
   - [Credit Risk Unveiled](#) – Default models, CDS, tranches, correlation risk
   - [Swaps & Structured Derivatives](#) – IRS, TRS, and product engineering
 
+- **... and more...**
+
 Each article is backed by Python code to illustrate:
 - Simulations (e.g., Monte Carlo, volatility paths)
 - Analytical models (e.g., Black-Scholes, Greeks)
